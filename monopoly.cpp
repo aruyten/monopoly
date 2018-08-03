@@ -13,7 +13,7 @@ void        setup_board(stack&);
 
 
 int numDoubles = 0;  //global int to track doubles
-bool rolledDoubles = false;
+bool rolledDoubles = false;  //tracks number of doubles rolled in a row
 
 
 int main() {
